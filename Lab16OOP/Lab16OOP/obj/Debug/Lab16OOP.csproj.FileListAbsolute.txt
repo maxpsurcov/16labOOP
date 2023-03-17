@@ -1,0 +1,11 @@
+C:\Users\Max\source\repos\Lab16OOP\Lab16OOP\bin\Debug\Lab16OOP.exe.config
+C:\Users\Max\source\repos\Lab16OOP\Lab16OOP\bin\Debug\Lab16OOP.exe
+C:\Users\Max\source\repos\Lab16OOP\Lab16OOP\bin\Debug\Lab16OOP.pdb
+C:\Users\Max\source\repos\Lab16OOP\Lab16OOP\obj\Debug\Lab16OOP.csproj.AssemblyReference.cache
+C:\Users\Max\source\repos\Lab16OOP\Lab16OOP\obj\Debug\Lab16OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Max\source\repos\Lab16OOP\Lab16OOP\obj\Debug\Lab16OOP.Form1.resources
+C:\Users\Max\source\repos\Lab16OOP\Lab16OOP\obj\Debug\Lab16OOP.Properties.Resources.resources
+C:\Users\Max\source\repos\Lab16OOP\Lab16OOP\obj\Debug\Lab16OOP.csproj.GenerateResource.cache
+C:\Users\Max\source\repos\Lab16OOP\Lab16OOP\obj\Debug\Lab16OOP.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\Lab16OOP\Lab16OOP\obj\Debug\Lab16OOP.exe
+C:\Users\Max\source\repos\Lab16OOP\Lab16OOP\obj\Debug\Lab16OOP.pdb
